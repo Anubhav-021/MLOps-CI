@@ -6,7 +6,7 @@ def square(n):
 
 # Function to test cube
 def cube(n):
-    return n ** 2
+    return n ** 3
 
 # Function to test fifth power
 def fifth_power(n):
